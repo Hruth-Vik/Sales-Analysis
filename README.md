@@ -19,24 +19,24 @@ This project helps businesses make **data-backed decisions** through **insightfu
 
 ## 📸 Power BI Dashboard Snapshots
 
-### 🟢 Product Performance Dashboard  
-A breakdown of product-wise contribution to sales and profits.
+### 🟩 Executive Overview & Sales Trends  
+A high-level summary showing key KPIs, revenue trends, and time-based performance for quick decision-making.
 
-![Product Performance](./Sample%20pics/pic1.png)
-
----
-
-### 🔵 Regional Sales Overview  
-Understand region-wise contributions and market spread.
-
-![Regional Sales](./Sample%20pics/pic2.png)
+![Executive Overview](./Sample%20pics/pic1.png)
 
 ---
 
-### 🟣 Monthly Sales Trends  
-Seasonal performance and long-term patterns over time.
+### 🟦 Product & Channel Performance  
+Visual analysis of product categories, sales channels, and their contribution to revenue.
 
-![Monthly Sales](./Sample%20pics/pic3.png)
+![Product & Channel](./Sample%20pics/pic2.png)
+
+---
+
+### 🟪 Geographical & Customer Revenue Insights  
+Insights into region-wise sales distribution and customer segmentation based on revenue contribution.
+
+![Geographical & Customer](./Sample%20pics/pic3.png)
 
 ---
 
